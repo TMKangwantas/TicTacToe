@@ -1,6 +1,4 @@
-#Thanathip Kangwantas
-#CS100-H03, Fall
-#December 8, 2014
+#Thanathip Mark Kangwantas
 
 #################################################
 #Triplets
